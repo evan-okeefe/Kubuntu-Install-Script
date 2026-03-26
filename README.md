@@ -7,4 +7,4 @@ A lightweight shell script to customize and debloat a fresh Kubuntu installation
 To run the script immediately without manually cloning the repository, copy and paste the following command into your terminal:
 
 ```bash
-curl -fssL [https://raw.githubusercontent.com/evan-okeefe/Kubuntu-Install-Script/refs/heads/main/install.sh](https://raw.githubusercontent.com/evan-okeefe/Kubuntu-Install-Script/refs/heads/main/install.sh) -o install.sh && chmod +x install.sh && ./install.sh && rm install.sh
+curl -fssL https://raw.githubusercontent.com/evan-okeefe/Kubuntu-Install-Script/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh && rm install.sh
